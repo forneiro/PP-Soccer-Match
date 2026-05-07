@@ -1,4 +1,4 @@
-Descripción
+#Descripción.
 Aplicación web interactiva diseñada para la gestión de perfiles de usuario de forma local. El proyecto permite crear, visualizar y eliminar tarjetas de usuario, persistiendo la información directamente en el navegador. Además, incluye una experiencia de navegación fluida mediante un carrusel personalizado.
 
 Tecnologías Utilizadas
